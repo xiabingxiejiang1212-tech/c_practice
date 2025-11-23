@@ -1,1 +1,7 @@
-int main(){return 0;}
+#include <stdio.h>
+
+int main()
+{
+	printf("Hello,Tongji University!\n");
+	return 0;
+ } 
